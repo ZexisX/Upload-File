@@ -1,1 +1,3 @@
-python -m venv venv
+Flask==2.0.2
+requests==2.26.0
+# other dependencies...
